@@ -1,4 +1,5 @@
 # Data-Science-Practicum-II 
+Video presentation - https://www.youtube.com/watch?v=tZvS6N9su9A
 For this project, we will be using Movie Dataset from Pirated Sites data from Kaggle. This data provides information on various movies, including their IMDb rating, appropriate age group, director, downloads, industry, language, posted date, release date, run time, storyline, title, views, and writer. These columns can be used to gain an insight into the factors that contribute to a movie’s success, and to build predictive models which will forecast the success of new movie. In this project, we will be performing different data science analyses which will include data cleaning, correlation analysis, and predicting modeling.
 Title of the project – Predicting Piracy Rates of Movies using ML Algorithms 
 
